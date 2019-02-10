@@ -7,7 +7,7 @@ We recently developed a solution based on deep learning, i.e. Tiramisu, to segme
 ## Contents 
 In this repository, you'll find:
 
-- the code to reproduce the image segmetnation described in the accompanying [code story](https://www.microsoft.com/developerblog/2018/01/31/deep-learning-image-segmentation-for-ecommerce-catalogue-visual-search/)
+- the code to reproduce the image segmetnation described in the accompanying [code story](https://www.microsoft.com/developerblog/2018/04/18/deep-learning-image-segmentation-for-ecommerce-catalogue-visual-search/)
 
 - how to train your own specific image segmentation with your own data
 
